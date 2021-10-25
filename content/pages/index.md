@@ -229,6 +229,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: content/data/team/person-oa6kbtx9p.json
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
